@@ -1,0 +1,13 @@
+Source: user-supplied guide / pasted instruction
+Reference reel: https://www.instagram.com/reel/Dc4xq3og_TU/
+
+The supplied guide defines:
+- 6 Google Flow videos + 4 images.
+- Next.js App Router, TypeScript, TailwindCSS, Framer Motion, GSAP, ScrollTrigger, Lenis, ThreeJS, React Three Fiber, Drei, SplitType, Intersection Observer, next/image and next/font.
+- Warm off-white #FAFAF8 canvas and charcoal #2B2320.
+- Fraunces headings and Inter body.
+- Eight editorial sections: Hero, Story, Exploded Samosa, Ingredients, Craft Process, Signature Sauces, Dining Experience, Reservation CTA.
+- Scroll-controlled video sequences and reduced-motion/accessibility requirements.
+- Desktop-first, tablet optimized, mobile redesigned.
+
+Instagram reference could not be fetched by the environment, so no details have been invented from that Reel.
